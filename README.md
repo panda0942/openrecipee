@@ -28,7 +28,15 @@ Developed using HTML,CSS and JS. used mealdb API for fetching data using fetchAP
 
 
 
-2. Responsive View 
+2. Mobile View 
 
 
+![small](https://github.com/panda0942/openrecipee/assets/69324217/7db7c94b-e735-4ae1-bd71-acb519987896)
+
+
+![small2](https://github.com/panda0942/openrecipee/assets/69324217/67fb8040-ef39-42c1-b624-17e465394e51)
+
+Website Link :
+       https://www.openrecipee.netlify.app
+       
 
