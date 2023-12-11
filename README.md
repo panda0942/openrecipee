@@ -10,17 +10,19 @@ Developed using HTML,CSS and JS. used mealdb API for fetching data using fetchAP
 - A video link is also in there to enhance visual learning of the preparation of the meal. 
 
 
-#Demo Videos below : 
+#Pictures below : 
 
 1. Desktop View 
 
 
 
+![rice1](https://github.com/panda0942/openrecipee/assets/69324217/389ce71e-44e2-4a40-92cb-325a99f30f03)
 
 
 
 
 
+![rice2](https://github.com/panda0942/openrecipee/assets/69324217/00f3de4a-c836-495e-9c7b-499ba746ed54)
 
 
 
